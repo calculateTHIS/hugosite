@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readmes on Terminal</title>
+    <link>//localhost:1313/readme/</link>
+    <description>Recent content in Readmes on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 18:57:25 -0500</lastBuildDate><atom:link href="//localhost:1313/readme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readme</title>
+      <link>//localhost:1313/readme/readme/</link>
+      <pubDate>Mon, 02 Dec 2024 18:57:25 -0500</pubDate>
+      
+      <guid>//localhost:1313/readme/readme/</guid>
+      <description>&lt;p&gt;Hello, world!&lt;/p&gt;
+&lt;p&gt;This blog is a record of my journey. Many years ago, I dreamt of going to
+graduate school and earning my PhD and working in a lab advancing technology
+and pushing science to its limits. A lot has happened since then. It&amp;rsquo;s been
+nearly ten years since I&amp;rsquo;ve last done a derivation or taken a derivative. A
+very long time since I&amp;rsquo;ve sat in a classroom, or done an experiment. However,
+I want to go back and try again. I&amp;rsquo;ve got a plan.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Hello, world!&lt;/p&gt;
+&lt;p&gt;This blog is a record of my journey. Many years ago, I dreamt of going to
+graduate school and earning my PhD and working in a lab advancing technology
+and pushing science to its limits. A lot has happened since then. It&amp;rsquo;s been
+nearly ten years since I&amp;rsquo;ve last done a derivation or taken a derivative. A
+very long time since I&amp;rsquo;ve sat in a classroom, or done an experiment. However,
+I want to go back and try again. I&amp;rsquo;ve got a plan.&lt;/p&gt;
+&lt;h1 id=&#34;the-plan&#34;&gt;The Plan!&lt;/h1&gt;
+&lt;p&gt;Over the next two years, I&amp;rsquo;m not only going to begin getting recommendations
+and transcripts and emailing professors and all that. I&amp;rsquo;m going to work on
+practice problems and get back to where I was at the end of my senior year of
+my undergraduate studies. This means getting through a lot of work! I&amp;rsquo;m going
+to get caught up in mathematics, chemistry, and physics. I want to go on to
+work on quantum computing or novel inorganic nanomaterials.&lt;/p&gt;
+&lt;h2 id=&#34;the-blog&#34;&gt;The Blog!&lt;/h2&gt;
+&lt;p&gt;So I&amp;rsquo;m going to use this blog to keep a record. To keep myself on track. And
+to maybe build an online community and support group for people like myself
+who wish to go to grad school and build our math and science strengths together.
+I&amp;rsquo;m also going to do more than the blog, though.&lt;/p&gt;
+&lt;h2 id=&#34;the-videos&#34;&gt;The videos!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m going to do 50-ish minute recordings of me going over the meat and potatoes
+of many different subjects, and maybe even some at home labs! These videos
+topics can be found below, and I will come back here and check them off as
+the series begins/ends.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Calculus [ ]&lt;/li&gt;
+&lt;li&gt;Linear Algebra [ ]&lt;/li&gt;
+&lt;li&gt;Engineering Math [ ]&lt;/li&gt;
+&lt;li&gt;Intro Physics [ ]&lt;/li&gt;
+&lt;li&gt;Classical Mechanics [ ]&lt;/li&gt;
+&lt;li&gt;Electrodynamics [ ]&lt;/li&gt;
+&lt;li&gt;Thermodynamics [ ]&lt;/li&gt;
+&lt;li&gt;Quantum Mechanics [ ]&lt;/li&gt;
+&lt;li&gt;Intro Chemistry [ ]&lt;/li&gt;
+&lt;li&gt;Organic Chemistry [ ]&lt;/li&gt;
+&lt;li&gt;Medicinal Chemistry [ ]&lt;/li&gt;
+&lt;li&gt;Inorganic Chemistry [ ]&lt;/li&gt;
+&lt;li&gt;Physical Chemistry [ ]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-livestreams&#34;&gt;The livestreams!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m going to supplement the videos with livestreams. During the live streams
+I&amp;rsquo;ll work on the practice problems I assigned myself during the videos. During
+the livestreams I will also chat with the community and maybe even take
+problems or suggestions from the audience. It&amp;rsquo;s basically like office hours or
+something.&lt;/p&gt;
+&lt;h2 id=&#34;the-discord&#34;&gt;The discord!&lt;/h2&gt;
+&lt;p&gt;To help build and foster a community, I&amp;rsquo;ll also be running a discord server.&lt;/p&gt;
+&lt;h2 id=&#34;the-patreon&#34;&gt;The patreon!&lt;/h2&gt;
+&lt;p&gt;If you wanna help out, think about donating! I&amp;rsquo;ll have a buy me a coffee for
+one-time donations, as well as a patreon for anyone who wants to support this
+blog long-term!&lt;/p&gt;
+&lt;p&gt;This blog is a record of my journey. Wish me luck!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
