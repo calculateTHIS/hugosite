@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Calculate THIS</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Calculate THIS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 02 Dec 2024 20:38:55 -0500</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting started!</title>
+      <link>//localhost:1313/posts/day0/</link>
+      <pubDate>Mon, 02 Dec 2024 20:38:55 -0500</pubDate>
+      
+      <guid>//localhost:1313/posts/day0/</guid>
+      <description>&lt;p&gt;This is my first official blog post! Yay! So I&amp;rsquo;ve got a few things to cover
+today, and the biggest thing is that the site is now given life! Yay!
+So, that&amp;rsquo;s &lt;strong&gt;really&lt;/strong&gt; neat! The other thing is I&amp;rsquo;m going to finalize the first
+couple projects I&amp;rsquo;m going to work on.&lt;/p&gt;
+&lt;h1 id=&#34;calculus-book-chosen&#34;&gt;Calculus Book Chosen&lt;/h1&gt;
+&lt;p&gt;Calculus is a huge one. It&amp;rsquo;s fundamental to all the studies I&amp;rsquo;ll be doing, so
+I would really like to knock that out of the way first. But because it&amp;rsquo;s so
+important, it&amp;rsquo;ll be wise to go through slowly. I guess I&amp;rsquo;ll have to determine
+the pacing. I think most of it should be quick refreshers.&lt;/p&gt;</description>
+      <content>&lt;p&gt;This is my first official blog post! Yay! So I&amp;rsquo;ve got a few things to cover
+today, and the biggest thing is that the site is now given life! Yay!
+So, that&amp;rsquo;s &lt;strong&gt;really&lt;/strong&gt; neat! The other thing is I&amp;rsquo;m going to finalize the first
+couple projects I&amp;rsquo;m going to work on.&lt;/p&gt;
+&lt;h1 id=&#34;calculus-book-chosen&#34;&gt;Calculus Book Chosen&lt;/h1&gt;
+&lt;p&gt;Calculus is a huge one. It&amp;rsquo;s fundamental to all the studies I&amp;rsquo;ll be doing, so
+I would really like to knock that out of the way first. But because it&amp;rsquo;s so
+important, it&amp;rsquo;ll be wise to go through slowly. I guess I&amp;rsquo;ll have to determine
+the pacing. I think most of it should be quick refreshers.&lt;/p&gt;
+&lt;p&gt;That said, I&amp;rsquo;m going to go with a book I&amp;rsquo;ve had for a couple years: &lt;em&gt;Calculus:
+Early Transcendentals, 6E&lt;/em&gt; by James Stewart. My first calculus book was this
+one and it kinda holds a place in my heart. If you want to get the same edition
+that&amp;rsquo;s fine, but any edition and really any calculus book should be able to
+let you follow along.&lt;/p&gt;
+&lt;h1 id=&#34;chemistry-book-chosen&#34;&gt;Chemistry Book Chosen&lt;/h1&gt;
+&lt;p&gt;Chemistry is also great. I&amp;rsquo;m pretty good at it, and the calculations can get
+rigorous but never too complicated, at least until P-Chem and Inorganic. So,
+I&amp;rsquo;ll get started on Chemistry soon too.&lt;/p&gt;
+&lt;p&gt;The book I&amp;rsquo;m going to follow is &lt;em&gt;Chemistry: The Central Science&lt;/em&gt; by Brown,
+LeMay and Bursten.&lt;/p&gt;
+&lt;h1 id=&#34;physics-book-chosen&#34;&gt;Physics Book Chosen&lt;/h1&gt;
+&lt;p&gt;Physics is central to both of my research interests: nanotechnology and quantum
+technology (quantum computers/electronics, entanglement devices, etc).&lt;/p&gt;
+&lt;p&gt;The book I&amp;rsquo;m going to start with is &lt;em&gt;Matter and Interactions 3rd Edition&lt;/em&gt; by
+Chabay and Sherwood.&lt;/p&gt;
+&lt;h1 id=&#34;electronics-project-chosen&#34;&gt;Electronics Project chosen&lt;/h1&gt;
+&lt;p&gt;I also got an electronics kit in the mail from inventr.io or somesuch. It&amp;rsquo;s
+called &lt;code&gt;Cogsworth City&lt;/code&gt; and is supposed to teach you microcontroller electronics
+with a gamified modules. Seems like a cool way to refresh my electronic skills.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
