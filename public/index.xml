@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calculate THIS</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Calculate THIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Dec 2024 08:20:32 -0500</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Dec 2024 08:20:32 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Links</title>
-      <link>//localhost:1313/links/</link>
+      <link>/links/</link>
       <pubDate>Tue, 03 Dec 2024 08:20:32 -0500</pubDate>
       
-      <guid>//localhost:1313/links/</guid>
+      <guid>/links/</guid>
       <description>&lt;p&gt;Here are some useful links!&lt;/p&gt;
-&lt;p&gt;&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/discord.png alt=Join&amp;#32;the&amp;#32;conversation&amp;#32;on&amp;#32;Discord!&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=ZgotmplZ&gt;&lt;img src=/img/discord.png alt=Join&amp;#32;the&amp;#32;conversation&amp;#32;on&amp;#32;Discord!&gt;&lt;/a&gt;
 
-&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/twitch.png alt=Slip&amp;#32;into&amp;#32;the&amp;#32;Stream!&gt;&lt;/a&gt;
+&lt;a href=https://twitch.tv/calculatethisnoofbiz&gt;&lt;img src=/img/twitch.png alt=Slip&amp;#32;into&amp;#32;the&amp;#32;Stream!&gt;&lt;/a&gt;
 
 &lt;a href=&#34;https://www.buymeacoffee.com/calculateTHIS&#34;&gt;
 	&lt;img src=&#34;https://img.buymeacoffee.com/button-api/?text=Buy me a musabi&amp;emoji=🍣&amp;slug=calculateTHIS&amp;button_colour=5F7FFF&amp;font_colour=ffffff&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=FFDD00&#34; /&gt;
 &lt;/a&gt;
 
-&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/patreon.png alt=Support&amp;#32;my&amp;#32;work!&gt;&lt;/a&gt;
+&lt;a href=patreon.com/CalculateTHIS&gt;&lt;img src=/img/patreon.png alt=Support&amp;#32;my&amp;#32;work!&gt;&lt;/a&gt;
 
-&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/linktree.png alt=More&amp;#32;links&amp;#32;here!&gt;&lt;/a&gt;
+&lt;a href=https://linktr.ee/calculate.this.noofbiz&gt;&lt;img src=/img/linktree.jpg alt=More&amp;#32;links&amp;#32;here!&gt;&lt;/a&gt;
 &lt;/p&gt;</description>
       <content>&lt;p&gt;Here are some useful links!&lt;/p&gt;
-&lt;p&gt;&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/discord.png alt=Join&amp;#32;the&amp;#32;conversation&amp;#32;on&amp;#32;Discord!&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a href=ZgotmplZ&gt;&lt;img src=/img/discord.png alt=Join&amp;#32;the&amp;#32;conversation&amp;#32;on&amp;#32;Discord!&gt;&lt;/a&gt;
 
-&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/twitch.png alt=Slip&amp;#32;into&amp;#32;the&amp;#32;Stream!&gt;&lt;/a&gt;
+&lt;a href=https://twitch.tv/calculatethisnoofbiz&gt;&lt;img src=/img/twitch.png alt=Slip&amp;#32;into&amp;#32;the&amp;#32;Stream!&gt;&lt;/a&gt;
 
 &lt;a href=&#34;https://www.buymeacoffee.com/calculateTHIS&#34;&gt;
 	&lt;img src=&#34;https://img.buymeacoffee.com/button-api/?text=Buy me a musabi&amp;emoji=🍣&amp;slug=calculateTHIS&amp;button_colour=5F7FFF&amp;font_colour=ffffff&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=FFDD00&#34; /&gt;
 &lt;/a&gt;
 
-&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/patreon.png alt=Support&amp;#32;my&amp;#32;work!&gt;&lt;/a&gt;
+&lt;a href=patreon.com/CalculateTHIS&gt;&lt;img src=/img/patreon.png alt=Support&amp;#32;my&amp;#32;work!&gt;&lt;/a&gt;
 
-&lt;a href=ZgotmplZ&gt;&lt;img src=//localhost:1313/img/linktree.png alt=More&amp;#32;links&amp;#32;here!&gt;&lt;/a&gt;
+&lt;a href=https://linktr.ee/calculate.this.noofbiz&gt;&lt;img src=/img/linktree.jpg alt=More&amp;#32;links&amp;#32;here!&gt;&lt;/a&gt;
 &lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>//localhost:1313/showcase/</link>
+      <link>/showcase/</link>
       <pubDate>Mon, 02 Dec 2024 21:13:12 -0500</pubDate>
       
-      <guid>//localhost:1313/showcase/</guid>
+      <guid>/showcase/</guid>
       <description>&lt;p&gt;The SHOWCASE is for the most current and recent updates. Here I&amp;rsquo;ll keep links
 to my most recent updates across the interwebs for easy and convenient access.&lt;/p&gt;
 &lt;h1 id=&#34;calculus&#34;&gt;Calculus&lt;/h1&gt;
@@ -73,10 +73,10 @@ to my most recent updates across the interwebs for easy and convenient access.&l
     
     <item>
       <title>Getting started!</title>
-      <link>//localhost:1313/posts/day0/</link>
+      <link>/posts/day0/</link>
       <pubDate>Mon, 02 Dec 2024 20:38:55 -0500</pubDate>
       
-      <guid>//localhost:1313/posts/day0/</guid>
+      <guid>/posts/day0/</guid>
       <description>&lt;p&gt;This is my first official blog post! Yay! So I&amp;rsquo;ve got a few things to cover
 today, and the biggest thing is that the site is now given life! Yay!
 So, that&amp;rsquo;s &lt;strong&gt;really&lt;/strong&gt; neat! The other thing is I&amp;rsquo;m going to finalize the first
@@ -120,10 +120,10 @@ with a gamified modules. Seems like a cool way to refresh my electronic skills.&
     
     <item>
       <title>About</title>
-      <link>//localhost:1313/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 02 Dec 2024 18:57:25 -0500</pubDate>
       
-      <guid>//localhost:1313/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;This blog is a record of my journey. Many years ago, I dreamt of going to
 graduate school and earning my PhD and working in a lab advancing technology
 and pushing science to its limits. A lot has happened since then. It&amp;rsquo;s been
